@@ -8,7 +8,7 @@ venv/
 dataset/
 
 # Generated outputs
-
+output/
 
 # Environment / secrets
 .env
