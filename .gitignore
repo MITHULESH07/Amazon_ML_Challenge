@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Datasets - do not commit challenge data
+dataset/
+
+# Generated outputs
+output/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# AWS credentials
+.aws/
