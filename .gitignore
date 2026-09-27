@@ -9,6 +9,10 @@ dataset/
 
 # Generated outputs
 output/
+artifacts/
+models/
+output.zip
+tmp/
 
 # Environment / secrets
 .env
